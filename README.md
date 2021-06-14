@@ -1,7 +1,7 @@
 # supermall
 
 ## Project setup
-```
+
 npm install
 ```
 
